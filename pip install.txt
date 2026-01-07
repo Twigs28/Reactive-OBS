@@ -1,0 +1,12 @@
+pip install:
+
+pip install soundfile
+pip install obs-websocket-py
+pip install pyAudio
+pip install obsws-python
+pip install PyAutoGUI
+pip install pyjson
+pip install websocket
+pip install websocket-client
+pip install pydub
+pip install pyglet
