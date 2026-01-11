@@ -9,4 +9,7 @@ pip install pyjson
 pip install websocket
 pip install websocket-client
 pip install pydub
+pip install websocket-client
+pip install pyyaml
+pip3 install SpeechRecognition
 pip install pyglet
